@@ -1,0 +1,14 @@
+# Django #
+.env
+
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+.idea/*
+venv/
+
+
+# Backup files #
+*.bak
